@@ -39,10 +39,9 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/rajat0o1/rajat0o1/snake-output/snake.svg" alt="Snake animation" />
 
+###
 ###
 
 <div>
