@@ -33,30 +33,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
 </div>
+######
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rajat0o1/rajat0o1/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/rajat0o1/rajat0o1/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/rajat0o1" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 
-
-
-
-
-
-<img src="https://raw.githubusercontent.com/rajat0o1/rajat0o1/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div>
-<img src="https://raw.githubusercontent.com/rajat0o1/rajat0o1/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
