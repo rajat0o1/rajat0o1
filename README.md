@@ -38,3 +38,8 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/rajat0o1" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 ###
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=footer&reversal=true&fontSize=030&fontColor=FFFFFF&fontAlign=15&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
